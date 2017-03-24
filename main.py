@@ -1,23 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-  Name: Will Tribble
-  Student ID: 10540462
-  Email: wltribbl@go.olemiss.edu
-  Course Information: CSCI 343 - Section 01
-  Program Source File Name: main.py
-  Programming Assignment: 03
-  References:
-  Program Description: this program takes surveillance footage and highlights areas of certain degrees of motion
-  Due Date: Friday, 3/10/2017, 11:59 am
-
-  In keeping with the honor code policies of the University of Mississippi, the School of
-  Engineering, and the Department of Computer and Information Science, I affirm that I have
-  neither given nor received assistance on this programming assignment. This assignment
-  represents my individual, original effort.
-  ... My Signature is on File.
-"""
 # import statements
 from PIL import Image
 import matplotlib.pyplot as mplot
